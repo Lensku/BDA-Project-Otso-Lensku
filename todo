@@ -1,7 +1,10 @@
+# WEEK 1
 - describe data & problem
-    - 
+    - draw histograms & qualitative description
 - describe 2 models 
     - linear & non-linear
 - choose & describe prior distributions
     - informative/weakly informative? probably based on histograms drawn earlier
+
+# WEEK 2
 - stan code
