@@ -1,0 +1,7 @@
+- describe data & problem
+    - 
+- describe 2 models 
+    - linear & non-linear
+- choose & describe prior distributions
+    - informative/weakly informative? probably based on histograms drawn earlier
+- stan code
