@@ -19,10 +19,9 @@
 - Convergence diagnostics (Rhat, divergences, ESS) PLACEHOLDER CODE DONE
 
 - Posterior predictive checking
+    - predictive performance assessment kinda here also?
 
 - Model comparison (e.g. with loo) PLACEHOLDER CODE DONE
-
-- Predictive performance assessment if applicable (e.g. classification accuracy)
 
 - Sensitivity analysis with respect to prior choices
 
