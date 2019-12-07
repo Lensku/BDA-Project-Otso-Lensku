@@ -1,18 +1,30 @@
-- Description of the data, and the analysis problem
-    - analysing the impact of time on traffic 
+- Description of the data, and the analysis problem PRETTY MUCH DONE
+    - analysing the impact of time on traffic
+    
+    
 - Description of at least two models
     - hierarchical
     - pooled model
+    
 - Informative or weakly informative priors, and description of the prior choices
+
 - Prior choices: <-- prob. based on visual analysis of first part
     - informative or weakly informative?
     - Description of prior choices
+    
 - Stan code
+
 - How Stan model is run
+
 - Convergence diagnostics (Rhat, divergences, ESS)
+
 - Posterior predictive checking
+
 - Model comparison (e.g. with loo)
+
 - Predictive performance assessment if applicable (e.g. classification accuracy)
+
 - Sensitivity analysis with respect to prior choices
+
 - Discussion of problems, and potential improvements
     - Mainly visual analysis on the difference in traffic numbers
