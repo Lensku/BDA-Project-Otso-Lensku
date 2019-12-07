@@ -16,11 +16,11 @@
 
 - How Stan model is run
 
-- Convergence diagnostics (Rhat, divergences, ESS)
+- Convergence diagnostics (Rhat, divergences, ESS) PLACEHOLDER CODE DONE
 
 - Posterior predictive checking
 
-- Model comparison (e.g. with loo)
+- Model comparison (e.g. with loo) PLACEHOLDER CODE DONE
 
 - Predictive performance assessment if applicable (e.g. classification accuracy)
 
