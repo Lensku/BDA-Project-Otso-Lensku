@@ -5,8 +5,6 @@ description of models check <- lensku tsekkaa tekstia
 
 converge diagnostics tausta+analyysi
 
-posterior predictive checking loppuun <- otso
-
 model comparison loppuun <- lensku
 sensitivity analysis?? <- otso?
 
