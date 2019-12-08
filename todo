@@ -1,29 +1,16 @@
-- Description of the data, and the analysis problem PRETTY MUCH DONE
-    - analysing the impact of time on traffic
-    
-    
-- Description of at least two models
-    - hierarchical
-    - pooled model
-    
-- Informative or weakly informative priors, and description of the prior choices
+further analysis on data miettiminen?
+	tää discussioniin?
 
-- Prior choices: <-- prob. based on visual analysis of first part
-    - informative or weakly informative?
-    - Description of prior choices
-    
-- Stan code PLACEHOLDER CODE DONE; NEED TO IMPLEMENT WITH PROPER PRIOS
+description of models check <- lensku
+prior choices päivittäminen <- lensku
 
-- How Stan model is run
+converge diagnostics tausta+analyysi
 
-- Convergence diagnostics (Rhat, divergences, ESS) PLACEHOLDER CODE DONE
+posterior predictive checking loppuun <- otso
 
-- Posterior predictive checking
-    - predictive performance assessment kinda here also?
+model comparison loppuun <- lensku
+sensitivity analysis?? <- otso?
 
-- Model comparison (e.g. with loo) PLACEHOLDER CODE DONE
-
-- Sensitivity analysis with respect to prior choices
-
-- Discussion of problems, and potential improvements
-    - Mainly visual analysis on the difference in traffic numbers
+discussion+future improvements <- asd
+oikoluku
+koodin siivoaminen ylipäätään
